@@ -1,6 +1,5 @@
 steps:
   - label: ":hammer: Example Script"
     commands:
-      - "script.sh"
       - "sleep 1h"
     artifact_paths: "artifacts/*"
